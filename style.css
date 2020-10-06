@@ -178,6 +178,9 @@ input[type=password]{
 .w-50{
     width:50%;
 }
+.w-33{
+    width:33%;
+}
 .w-25{
     width:25%;
 }
@@ -309,4 +312,13 @@ input[type=password]{
     border:none;
     padding:10px 14px;
     border-radius:4px;
+}
+
+.lcr{
+    display:flex;
+    justify-content:space-between;
+}
+
+.wrap{
+    flex-wrap:wrap;
 }
